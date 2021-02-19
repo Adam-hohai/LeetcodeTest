@@ -59,7 +59,10 @@ public class Main {
 //        int a = stack.pop();
 //        System.out.println(stack.isEmpty());
 
-
+        StringBuilder s = new StringBuilder();
+        s.append(1);
+        s.append(2);
+        System.out.println(s.toString());
 
     }
 }
