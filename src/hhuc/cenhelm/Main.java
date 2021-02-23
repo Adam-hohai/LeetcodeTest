@@ -44,7 +44,7 @@ public class Main {
 
 //        List<String> list = new ArrayList<>();
 //        list.add("aaa");
-//        System.out.println(list.toArray().toString());
+////        System.out.println(list.toArray().toString());
 //        String[] s = new String[2];
 //        s[0] = "a";
 //        s[1] = "b";

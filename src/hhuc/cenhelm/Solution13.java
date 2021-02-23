@@ -2,7 +2,7 @@ package hhuc.cenhelm;
 
 /**
  * 罗马数字转数字 简单题
- * 我好像发现一件事，if条件就算通过了，依旧会去验证else条件是否通过（虽然else肯定通不过），所以有可能会因为数据类型报错
+ *
  */
 
 public class Solution13 {
